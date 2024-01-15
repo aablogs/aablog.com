@@ -1,0 +1,73 @@
+.bigtitle {
+  font-size: 40px;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  text-align: center;
+  background-color: #0074D9;
+  padding: 20px 20px;
+  font-weight: bold;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: #333;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+.welcome {
+  text-align: center;
+  padding-top: 50px
+}
+
+nav a:hover {
+  color: royalblue;
+}
+
+#caption {
+  text-align: center;
+  font-size: 15px;
+  font-family: 'Open Sans', sans-serif;
+  color: #000000;
+  padding-bottom: 50px;
+}
+
+.box {
+    width: 30%;
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    text-align: center;
+    display: inline-block;
+}
+
+.box img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.read-more {
+    display: inline-block;
+    padding: 10px;
+    background-color: #3498db;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.blogtitle {
+  text-align: center;
+  font-size: 30px;
+  background-color: #ADD8E6;
+  color: #000000;
+  padding: 15px;
+  font-weight: bold;
+  font-family: Open Sans;
+  
